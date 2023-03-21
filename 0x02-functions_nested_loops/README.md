@@ -13,3 +13,4 @@ We will create some examples of functions by using nested loops.
 10-main.c : function that return tha addition of 2 integers.
 11-print_to_98.c : prints all natural numbers from n to 98, followed by a new line.
 100-times_table.c : function that prints the n times table, starting with 0.
+101-natural.c : function that prints the sum of all the multiples of 3 or 5 below 1024 (excluded).
