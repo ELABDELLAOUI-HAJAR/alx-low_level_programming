@@ -7,3 +7,4 @@ We will create some examples of functions by using nested loops.
 4-isalpha.c : function _isalpha to check if the giving character is alphabetic.
 5-sign.c : function print_sign to print the sign of a number.
 6-abs.c : function to computes the absolute value of an integer.
+7-print_last_digit.c : function to prints the last digit of a number.
