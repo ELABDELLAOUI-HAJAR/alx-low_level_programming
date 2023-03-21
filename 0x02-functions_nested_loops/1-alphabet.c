@@ -6,7 +6,7 @@
  * Description: function to print the alphabets in lowercase
  * Following by New ligne
  *
- * Return: 0 (Success)
+ * Return: void (No return)
  */
 void print_alphabet(void)
 {
