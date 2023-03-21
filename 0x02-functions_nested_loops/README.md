@@ -9,3 +9,4 @@ We will create some examples of functions by using nested loops.
 6-abs.c : function to computes the absolute value of an integer.
 7-print_last_digit.c : function to prints the last digit of a number.
 8-24_hours.c : function to print every minute of the day of Jack Bauer.
+9-times_table.c : function to print the 9 times table, starting with 0.
