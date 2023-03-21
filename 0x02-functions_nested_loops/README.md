@@ -5,3 +5,4 @@ We will create some examples of functions by using nested loops.
 2-print_alphabet_x10.c : function print_alphabet_x10 to print all the lowercase alphabet 10 times.
 3-islower.c : function _islower to check if the giving character is lowercase.
 4-isalpha.c : function _isalpha to check if the giving character is alphabetic.
+5-sign.c : function print_sign to print the sign of a number.
