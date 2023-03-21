@@ -15,3 +15,4 @@ We will create some examples of functions by using nested loops.
 100-times_table.c : function that prints the n times table, starting with 0.
 101-natural.c : function that prints the sum of all the multiples of 3 or 5 below 1024 (excluded).
 102-fibonacci.c : function that prints the first 50 Fibonacci numbers, starting with 1 and 2.
+103-fibonacci.c : function that finds and prints the sum of all even Fibonacci sequence whose values do not exceed 4.000.000
