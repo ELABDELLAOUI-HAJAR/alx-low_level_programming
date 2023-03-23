@@ -8,3 +8,4 @@
 6-print_line.c : function to draw a line according to the giving length.
 7-print_diagonal.c : function to draw a diagonal
 8-print_square.c : function to print square.
+9-fizz_buzz.c : function that prints the numbers from 1 to 100, followed by a new line,but for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For multiples of both three and five print FizzBuzz
