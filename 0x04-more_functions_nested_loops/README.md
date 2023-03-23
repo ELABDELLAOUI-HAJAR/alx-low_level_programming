@@ -7,3 +7,4 @@
 5-more_numbers.c : function to print 10 times numbers from 0 to 14.
 6-print_line.c : function to draw a line according to the giving length.
 7-print_diagonal.c : function to draw a diagonal
+8-print_square.c : function to print square.
