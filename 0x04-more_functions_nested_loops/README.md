@@ -11,3 +11,4 @@
 9-fizz_buzz.c : function that prints the numbers from 1 to 100, followed by a new line,but for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For multiples of both three and five print FizzBuzz
 10-print_triangle.c : function to print a triangle.
 100-prime_factor.c : function to print the largest prime factor of the number 612852475143.
+101-print_number.c : function to print an integer with _putchar
