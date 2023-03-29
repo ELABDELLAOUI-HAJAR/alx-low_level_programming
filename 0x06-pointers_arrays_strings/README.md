@@ -3,3 +3,4 @@
 1-strncat.c : function that concatenates a string with a specific numbre of characters from the second string.
 2-strncpy.c : function similar to standard strncpy.
 3-strcmp.c : function similar to standard strcmp.
+4-rev_array.c : function to reverse an array of integers.
