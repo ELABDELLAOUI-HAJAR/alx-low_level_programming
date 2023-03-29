@@ -4,3 +4,4 @@
 2-strncpy.c : function similar to standard strncpy.
 3-strcmp.c : function similar to standard strcmp.
 4-rev_array.c : function to reverse an array of integers.
+5-string_toupper.c : function that changes all lowercase letters of a string to uppercase.
