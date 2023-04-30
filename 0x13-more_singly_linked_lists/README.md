@@ -28,4 +28,5 @@ In this directory we will use for all exercices the following struct :
 | 7-get_nodeint.c | A function that returns the nth node of a listint_t linked list or NULL if the node does not exist. |
 | 8-sum_listint.c | A function that returns the sum of all the data (n) of a listint_t linked list or 0 if list is empty. |
 | 9-insert_nodeint.c | A function that inserts a new node at a given position, and the address of the new node or NULL otherwize. |
+| 10-delete_nodeint.c | A function that deletes the node at index index of a listint_t linked list and returns: 1 if it succeeded, -1 if it failed. |
 
