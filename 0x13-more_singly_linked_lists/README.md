@@ -32,4 +32,4 @@ In this directory we will use for all exercices the following struct :
 | 100-reverse_listint.c | A function that reverses a listint_t linked list and returns: a pointer to the first node.<br/>- we are not allowed to use more than 1 loop.<br/>- we are not allowed to use malloc, free or arrays.<br/>- we can only declare a maximum of two variables in your function. |
 | 101-print_listint_safe.c | A function that prints a listint_t linked list and returns the number of nodes in the list. If the function fails, exit the program with status 98. |
 | 102-free_listint_safe.c | A function that frees a listint_t list with loops. |
-
+| 103-find_loop.c | A function that finds the loop in a linked list and returns: The address of the node where the loop starts, or NULL if there is no loop. |
