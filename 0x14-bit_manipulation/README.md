@@ -8,4 +8,5 @@
 | 3-set_bit.c | A function that sets the value of a bit to 1 at a given index and returns: 1 if it worked, or -1 if an error occurred. |
 | 4-clear_bit.c | A function that sets the value of a bit to 0 at a given index and returns: 1 if it worked, or -1 if an error occurred. |
 | 5-flip_bits.c | A function that returns the number of bits you would need to flip to get from one number to another without using the % or / operators. |
+| 100-get_endianness.c | A function that checks the endianness and returns: 0 if big endian, 1 if little endian. (endianness is the order or sequence of bytes of a word of digital data in computer memory) |
 
