@@ -12,6 +12,7 @@ unsigned long int _power(int x, int y);
 int _pow(int x, int y);
 int get_bit(unsigned long int n, unsigned int index);
 int set_bit(unsigned long int *n, unsigned int index);
+int clear_bit(unsigned long int *n, unsigned int index);
 
 
 #endif /* MAIN_H */
