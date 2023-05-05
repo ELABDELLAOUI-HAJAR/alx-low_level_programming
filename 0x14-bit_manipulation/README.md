@@ -9,4 +9,4 @@
 | 4-clear_bit.c | A function that sets the value of a bit to 0 at a given index and returns: 1 if it worked, or -1 if an error occurred. |
 | 5-flip_bits.c | A function that returns the number of bits you would need to flip to get from one number to another without using the % or / operators. |
 | 100-get_endianness.c | A function that checks the endianness and returns: 0 if big endian, 1 if little endian. (endianness is the order or sequence of bytes of a word of digital data in computer memory) |
-
+| 101-password | get a password to crackme3.<br/> I use gdb to get the password : first i found that the length of the password is 4 than from the compare byte by byte i found the four needed bytes.'Hol4' than I create a C program to generate the password file because the 4 should be in the ascii code. |
