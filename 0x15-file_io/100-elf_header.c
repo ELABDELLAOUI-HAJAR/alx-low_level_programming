@@ -197,6 +197,12 @@ void printType(unsigned char *e_ident, unsigned int e_type)
 void printAddress(unsigned char *e_ident, unsigned long int e_entry)
 {
 	printf("  Entry point address:               ");
+	if (e_ident[EI_DATA] == ELFDATA2MSB)
+	{
+		e_entry = ((e_entry >> 8) & 0xFF00FF) |
+			((e_entry << 8) & 0xFF00FF00);
+		e_entry = (e_entry >> 16) | (e_entry << 16);
+	}
 	if (e_ident[EI_CLASS] == ELFCLASS32)
 		printf("%#x\n", (unsigned int)e_entry);
 	else
