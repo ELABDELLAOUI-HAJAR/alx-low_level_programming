@@ -10,3 +10,5 @@
 | 6-sum_dlistint.c | C function that returns the sum of all the data (n) of a dlistint_t linked list |
 | 7-insert_dnodeint.c | C function that inserts a new node at a given position |
 | 8-delete_dnodeint.c | C function that deletes the node at index index of a dlistint_t linked list |
+| 100-password | file contains the password of crackme4. steps to find the password :<br/>- file crackme4 : to determine the type of crackme4 (the output will be : "python 3.4 byte-compiled") <br/>- Then we rename crackme4 to 100-crackme.pyc and imported in a python file (found_pass.py) to check their items. we will see that there is an 'ok' item we print it in found_pass.py <br/>- When we execute found_pass.py, the program ask us about a password, we enter anything and press enter then we will see all the items the the printed password |
+
