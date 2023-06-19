@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /upload https://github.com/ELABDELLAOUI-HAJAR/alx-low_level_programming/tree/master/0x18-dynamic_libraries/libmy.so 
-export LD_PRELOAD=/upload/libmy.so
+wget -P /tmp https://github.com/ELABDELLAOUI-HAJAR/alx-low_level_programming/raw/master/0x18-dynamic_libraries/libshare.so 
+export LD_PRELOAD=/tmp/libshare.so
