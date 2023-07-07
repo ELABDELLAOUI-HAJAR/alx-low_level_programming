@@ -7,3 +7,5 @@
 | 2-key_index.c | create a function that gives the index of a giving key |
 | 3-hash_table_set.c | create a function that adds and updates an element to the hash table |
 | 4-hash_table_get.c | create a function that retrieves a value associated with a key |
+| 5-hash_table_print.c | create a function that prints a hash table |
+
