@@ -59,13 +59,13 @@ int exponential_search(int *array, size_t size, int value)
 		print_array(array, left, right);
 
 		middle = left + (right - left) / 2;
-		
+
 		if (array[middle] == value)
 			return (middle);
 		else if (array[middle] < value)
 			left = middle + 1;
 		else
-			right = middle - 1;	
+			right = middle - 1;
 	}
 	return (-1);
 }
